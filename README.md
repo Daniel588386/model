@@ -98,9 +98,6 @@ Data transformations:
 ````python
 # Eliminate Id, for it has no use for prediction purposes
 df = df.drop('Id', axis=1)
-
-print("INFO DEL DATASET:")
-df.info()
 ````
 Create dummy variables for categorical columns:
 ````python
