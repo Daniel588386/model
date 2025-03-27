@@ -1,7 +1,7 @@
 # 1 Business Context
-Eres parte de un equipo de análisis en una firma de inversión inmobiliaria. La empresa busca mejorar la precisión en la valoración de propiedades con el objetivo de maximizar la rentabilidad y minimizar riesgos. En este mercado, errores en la estimación de precios pueden resultar en pérdidas millonarias.
+You are part of an analytics team at a real estate investment firm. The company aims to improve the accuracy of property valuation to maximize profitability and minimize risks. In this market, errors in price estimation can lead to multimillion-dollar losses.
 
-La empresa dispone de un dataset histórico (train):
+The company has a historical dataset (train):
 
 https://www.kaggle.com/competitions/home-data-for-ml-course/data
 
