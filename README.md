@@ -10,7 +10,7 @@ Develop a neural network model to predict housing prices with greater accuracy t
 
 # 2 Data Processing
 In [Predict.ipynb](https://github.com/Daniel588386/model/blob/main/Predict.ipynb) we got the whole process. 
-Out dataset contains:
+Our dataset contains:
 * **Características de entrada:**
 * SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 * MSSubClass: The building class
